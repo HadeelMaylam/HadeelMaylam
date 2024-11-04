@@ -1,7 +1,7 @@
- Hi, I’m Hadeel
-🧠 I’m currently learning ML,NLP && Backend
-🤝 I’m looking to collaborate with other developers to build fun stuff
-📫 How to reach me hnmaylam@hotmail.com
+- Hi, I’m Hadeel
+-🧠 I’m currently learning ML,NLP && Backend
+-🤝 I’m looking to collaborate with other developers to build fun stuff
+-📫 How to reach me hnmaylam@hotmail.com
 
 
 <!---
